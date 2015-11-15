@@ -1,9 +1,10 @@
-RegEx like program
-Searches for a text in different parts of a file written in Python 
+RegEx like program in python from scratch
+The program searches for a text in different parts of a file written in Python 
 
 Author: Ulas Askan
 Date: 14 Nov 2015
 Python version: 2.7 
+
 This program takes a text file input by the user in a Linux filesystem and searches for a user input string
 The search simulates Regular expressions. 
 
