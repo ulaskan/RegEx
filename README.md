@@ -1,7 +1,7 @@
 RegEx like program in python from scratch
 The program searches for a text in different parts of a file written in Python 
 
-Author: Ulas Askan
+Author: Ulas A.
 Date: 14 Nov 2015
 Python version: 2.7 
 
