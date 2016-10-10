@@ -1,5 +1,5 @@
 #! /usr/bin/python
-# Author: Ulas Askan
+# Author: Ulas A.
 # Date: 14 Nov 2015
 # Python version: 2.7 
 # This program takes a text file input by the user in a Linux filesystem and searches for a user input string
